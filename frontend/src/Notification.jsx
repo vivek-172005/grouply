@@ -1,6 +1,6 @@
 const Notification = () => {
   return (
-    <div>Notification</div>
+    <div>   Edited the Notifica word to this content</div>
   )
 }
 export default Notification
