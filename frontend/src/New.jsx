@@ -1,7 +1,9 @@
 const New = () => {
 
     function add(){
-        
+        <Hello>
+            
+        </Hello>
     }
   return (
     <>
